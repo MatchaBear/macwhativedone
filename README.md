@@ -1,4 +1,7 @@
+
 # macwhativedone
+
+## what i did to my mac to improve productivity (mostly tools)
 
 > install "z" to jump into a previously accessed directory easily
 >
